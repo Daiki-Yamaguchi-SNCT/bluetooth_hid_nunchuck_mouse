@@ -1,6 +1,6 @@
 # bluetooth_hid_nunchuck_mouse
 ヌンチャクをマウスに改造
-Nunchuck.hは「88IO」さんのhttps://github.com/88IO/nunchuck-mouse/blob/main/Nunchuck.hを使わせていただいた。
+Nunchuck.hは「88IO」さんの https://github.com/88IO/nunchuck-mouse/blob/main/Nunchuck.h を使わせていただいた。
 マイコンはアリエクで買ったESP32の互換ボードを使用した。
 
 # 手順
